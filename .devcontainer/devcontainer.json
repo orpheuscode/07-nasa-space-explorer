@@ -17,5 +17,6 @@
       }
     }
   },
+  "forwardPorts": [3002],
   "postAttachCommand": "rm -rf ~/.cache/* ~/.vscode-server/extensionsCache/* ~/.vscode-server/data/User/workspaceStorage/* ~/.config/Code/Cache/* ~/.config/Code/CachedData/*"
 }
